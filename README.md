@@ -17,7 +17,7 @@
  
   ### About Me
  - :round_pushpin: Manila, Philippines
- - First Year Student in National University - Manila <img src="https://upload.wikimedia.org/wikipedia/en/a/a2/National_University_seal.png" width="15">
+ - First Year Student in National University - Manila  
  - Bachelor of Science in Information Technology
  - Specialization in Multimedia Arts and Animation
   
