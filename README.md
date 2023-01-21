@@ -27,6 +27,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   </div>
 
-<div id="stats" align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Kicoop&theme=leafy&hide_border=true" width="430"/>
-  </div>
