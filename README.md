@@ -4,7 +4,7 @@
   </div>
   <div align="center">
 <h1>Hey! Im Kiko!</h1>
-  <p style="bold;">Follow My Socials!</p>
+  <p style="bold;">Follow Me!</p>
   <div id="badges" align="center">
  
   </a>
