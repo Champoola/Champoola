@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=Kicoop&style=flat-square&color=blue" alt="" width=""/>
   </div>
   <div align="center">
-<h1>Hey! Im Kiko!</h1>
+<h1>Sup!</h1>
   <p style="bold;">Follow Me!</p>
   <div id="badges" align="center">
  
@@ -19,7 +19,7 @@
  - :round_pushpin: Makati, Philippines
  - First Year Student in National University - Manila <img src="https://upload.wikimedia.org/wikipedia/en/a/a2/National_University_seal.png" width="15">
  - Bachelor of Science in Information Technology
- - Specialization in Mobile and Web Application
+ - Specialization in Multimedia Arts and Animation
   
 ---
   ### Languages Currently Studying
